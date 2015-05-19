@@ -1,0 +1,10 @@
+name          'puppet-prerender'
+version       '0.1.0'
+source        'https://github.com/mrchilds/mrchilds-prerender.git'
+author        'Wesley Childs'
+license       'Apache 2.0'
+summary       'Installs and configures prerender service'
+description   'Setups up prerender to run as a service'
+project_page  'https://github.com/mrchilds/mrchilds-prerender'
+
+dependency 'puppetlabs/stdlib'
