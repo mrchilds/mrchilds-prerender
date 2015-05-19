@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Wesley Childs",
   "summary": "Installs and configures prerender service",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "source": "https://github.com/mrchilds/mrchilds-prerender.git",
   "project_page": "https://github.com/mrchilds/mrchilds-prerender",
   "issues_url": "https://github.com/mrchilds/mrchilds-prerender/issues",
