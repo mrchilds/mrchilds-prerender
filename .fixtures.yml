@@ -1,5 +1,8 @@
 fixtures:
   repositories:
     stdlib: "https://github.com/puppetlabs/puppetlabs-stdlib.git"
+    nodejs:
+        repo: "https://github.com/puppet-community/puppet-nodejs.git"
+        ref: "0.8.0"
   symlinks:
     prerender: "#{source_dir}"
